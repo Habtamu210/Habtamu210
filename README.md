@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=habtamu210&label=Profile%20views&color=0e75b6&style=flat" alt="habtamu210" /> </p>
 
 <p align="left"> <a href="https://twitter.com/habtamu birru" target="blank"><img src="https://img.shields.io/twitter/follow/habtamu birru?logo=twitter&style=for-the-badge" alt="habtamu birru" /></a> </p>
-https://www.google.com/imgres?imgurl=https%3A%2F%2Ft4.ftcdn.net%2Fjpg%2F01%2F35%2F92%2F85%2F360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg&imgrefurl=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dprogrammer%2Bcartoon&tbnid=Krpy16CZI6PaVM&vet=12ahUKEwi0hfL9pYD9AhUrtycCHdNwDg8QMygKegUIARDlAQ..i&docid=8YZqRq27QWN2GM&w=381&h=360&q=animated%20programer%20image&ved=2ahUKEwi0hfL9pYD9AhUrtycCHdNwDg8QMygKegUIARDlAQ
+
 
 
 - 🔭 I’m currently working on [Capstone Project](https://habtamu210.github.io/Capstone-project/)
