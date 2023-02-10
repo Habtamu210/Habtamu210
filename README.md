@@ -26,6 +26,7 @@
 <a href="https://twitter.com/habtamu birru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="habtamu birru" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/habtamu-birru-4187ab20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/habtamu-birru-4187ab20/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@habtamubirru2783" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@habtamubirru2783" height="30" width="40" /></a>
+  <a href=" https://habtamu210.github.io/portfoliopage/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@habtamubirru2783" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
