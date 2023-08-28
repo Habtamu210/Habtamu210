@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on [Capstone Project](https://habtamu210.github.io/Capstone-project/)
+- 🔭 I’m currently working on [PROFESSIONAL SKILLS CAPSTONE](https://habtamu210.github.io/Capstone-project/)
 
 - 🌱 I’m currently learning **JavaScript and Networking, React**
 
